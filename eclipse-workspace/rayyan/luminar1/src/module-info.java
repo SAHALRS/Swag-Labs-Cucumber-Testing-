@@ -1,0 +1,2 @@
+module luminar1 {
+}
